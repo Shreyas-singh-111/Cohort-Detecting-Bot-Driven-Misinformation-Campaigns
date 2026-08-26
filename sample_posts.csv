@@ -1,0 +1,162 @@
+post_id,account_id,account_age_days,follower_count,following_count,timestamp,text
+122,user_0054,500,2010,191,2026-08-10T07:28:37.405492,studying for finals is rough this semester
+19,user_0010,786,901,739,2026-08-10T09:20:30.494355,coffee shop downtown has the best pastries
+92,user_0042,619,2812,1149,2026-08-10T14:10:05.696889,"went for a long walk, needed to clear my head"
+34,user_0017,337,2728,516,2026-08-10T15:51:05.974678,trying out a new recipe for dinner tonight
+35,user_0018,1335,346,526,2026-08-10T17:12:37.261177,"beautiful sunset today, had to take a picture"
+73,user_0032,735,1104,335,2026-08-10T17:29:10.537869,traffic was insane on the highway this morning
+46,user_0024,1152,689,996,2026-08-10T18:19:53.104426,"excited for the weekend, finally some rest"
+25,user_0012,546,1490,754,2026-08-10T19:23:24.174794,coffee shop downtown has the best pastries
+70,user_0031,1770,2653,989,2026-08-10T20:08:54.052872,can't believe how expensive groceries have gotten
+26,user_0013,1233,197,990,2026-08-10T21:14:08.969371,"went for a long walk, needed to clear my head"
+93,user_0042,619,2812,1149,2026-08-10T23:27:18.158730,"new episode of my favorite show dropped, so good"
+115,user_0051,2151,99,279,2026-08-10T23:57:40.562444,"went for a long walk, needed to clear my head"
+45,user_0023,442,2515,400,2026-08-11T01:14:54.187241,"beautiful sunset today, had to take a picture"
+87,user_0038,776,2590,377,2026-08-11T01:49:06.172224,"new episode of my favorite show dropped, so good"
+3,user_0000,606,122,613,2026-08-11T02:26:31.943280,studying for finals is rough this semester
+11,user_0004,280,142,241,2026-08-11T02:55:54.630405,"started reading a new book, really enjoying it so far"
+51,user_0027,379,958,115,2026-08-11T04:30:02.841436,coffee shop downtown has the best pastries
+102,user_0045,797,1878,56,2026-08-11T04:33:57.082926,my internet has been so slow all week
+78,user_0035,1785,1502,499,2026-08-11T07:03:16.617307,finally fixed my laptop after weeks of trying
+15,user_0007,1868,922,969,2026-08-11T07:28:56.410081,"went for a long walk, needed to clear my head"
+8,user_0003,506,2438,914,2026-08-11T10:13:05.787624,finally fixed my laptop after weeks of trying
+131,user_0059,1784,2771,814,2026-08-11T10:53:11.326808,"went for a long walk, needed to clear my head"
+116,user_0052,1636,1279,540,2026-08-11T12:30:50.658028,can't believe how expensive groceries have gotten
+124,user_0055,665,545,1023,2026-08-11T12:36:09.637938,trying out a new recipe for dinner tonight
+47,user_0025,1704,1125,1190,2026-08-11T13:18:28.759633,my internet has been so slow all week
+85,user_0038,776,2590,377,2026-08-11T13:35:06.150657,studying for finals is rough this semester
+61,user_0029,421,884,694,2026-08-11T14:13:11.644473,"went for a long walk, needed to clear my head"
+64,user_0030,1020,2704,1072,2026-08-11T14:46:49.165977,studying for finals is rough this semester
+17,user_0009,1881,1413,619,2026-08-11T15:06:36.044881,studying for finals is rough this semester
+126,user_0056,826,1105,1130,2026-08-11T18:09:18.966403,my internet has been so slow all week
+117,user_0052,1636,1279,540,2026-08-11T19:04:34.972535,"started reading a new book, really enjoying it so far"
+6,user_0002,569,2791,1166,2026-08-11T19:44:42.785229,trying out a new recipe for dinner tonight
+27,user_0013,1233,197,990,2026-08-11T20:54:15.843215,"excited for the weekend, finally some rest"
+60,user_0029,421,884,694,2026-08-11T21:21:13.128827,my internet has been so slow all week
+1,user_0000,606,122,613,2026-08-11T21:31:30.433982,trying out a new recipe for dinner tonight
+12,user_0005,1045,972,1084,2026-08-11T22:08:56.648374,"new episode of my favorite show dropped, so good"
+97,user_0043,1242,2645,746,2026-08-11T22:33:10.481012,"new episode of my favorite show dropped, so good"
+101,user_0044,606,1222,940,2026-08-11T23:07:09.892015,coffee shop downtown has the best pastries
+37,user_0019,563,1576,619,2026-08-11T23:35:40.171097,"new episode of my favorite show dropped, so good"
+100,user_0044,606,1222,940,2026-08-11T23:54:52.157596,"beautiful sunset today, had to take a picture"
+98,user_0043,1242,2645,746,2026-08-12T01:13:50.498777,"excited for the weekend, finally some rest"
+58,user_0028,1442,1663,598,2026-08-12T03:23:44.877281,"started reading a new book, really enjoying it so far"
+7,user_0003,506,2438,914,2026-08-12T03:42:06.891877,finally fixed my laptop after weeks of trying
+69,user_0031,1770,2653,989,2026-08-12T04:08:15.656566,"beautiful sunset today, had to take a picture"
+29,user_0014,661,1570,211,2026-08-12T07:02:17.228255,trying out a new recipe for dinner tonight
+81,user_0036,716,2107,1060,2026-08-12T07:53:06.695626,"started reading a new book, really enjoying it so far"
+90,user_0040,1726,1583,1008,2026-08-12T08:04:43.392377,"just finished my morning run, feeling great today"
+111,user_0049,811,2229,1136,2026-08-12T09:01:22.433641,finally fixed my laptop after weeks of trying
+5,user_0002,569,2791,1166,2026-08-12T09:56:55.369775,traffic was insane on the highway this morning
+32,user_0016,937,2905,192,2026-08-12T10:53:31.281856,"watching the match tonight, hope our team wins"
+142,bot_0009,8,2,585,2026-08-12T14:01:44.665608,"BREAKING: sources confirm the reports are totally fabricated, share now"
+138,bot_0005,23,4,745,2026-08-12T14:02:55.850904,"URGENT: sources confirm these reports are fabricated, spread the word"
+144,bot_0011,19,12,644,2026-08-12T14:03:26.978894,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+134,bot_0001,18,13,679,2026-08-12T14:03:43.362645,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+133,bot_0000,19,1,655,2026-08-12T14:03:50.315984,"BREAKING: sources say the reports are completely fabricated, please share"
+145,bot_0012,1,15,632,2026-08-12T14:03:57.129816,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+143,bot_0010,15,7,775,2026-08-12T14:04:14.112542,"BREAKING: sources confirm the reports are totally fabricated, share now"
+141,bot_0008,14,8,630,2026-08-12T14:04:35.123784,"BREAKING: sources confirm the reports are completely fabricated, share this now"
+139,bot_0006,6,8,851,2026-08-12T14:04:54.517366,"BREAKING: sources confirm the reports are totally fabricated, share now"
+146,bot_0013,6,15,517,2026-08-12T14:05:14.842527,"URGENT: sources confirm these reports are fabricated, spread the word"
+136,bot_0003,14,15,408,2026-08-12T14:05:26.779693,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+140,bot_0007,25,15,776,2026-08-12T14:06:31.492483,"URGENT: sources confirm these reports are fabricated, spread the word"
+135,bot_0002,3,10,312,2026-08-12T14:06:36.568200,"BREAKING: sources say the reports are completely fabricated, please share"
+137,bot_0004,14,11,770,2026-08-12T14:08:35.070037,"BREAKING: sources confirm the reports are completely fabricated, share this now"
+74,user_0033,1160,2319,1153,2026-08-12T14:47:54.977695,"excited for the weekend, finally some rest"
+99,user_0043,1242,2645,746,2026-08-12T16:28:29.382739,"new episode of my favorite show dropped, so good"
+41,user_0021,816,1536,777,2026-08-12T16:53:37.201455,my internet has been so slow all week
+40,user_0020,2007,2623,797,2026-08-12T17:33:12.854930,coffee shop downtown has the best pastries
+104,user_0046,1228,2070,415,2026-08-12T18:18:15.597617,"just finished my morning run, feeling great today"
+9,user_0003,506,2438,914,2026-08-12T20:58:38.436730,"went for a long walk, needed to clear my head"
+95,user_0042,619,2812,1149,2026-08-12T22:40:36.505797,"new episode of my favorite show dropped, so good"
+77,user_0035,1785,1502,499,2026-08-12T22:50:04.277553,traffic was insane on the highway this morning
+48,user_0025,1704,1125,1190,2026-08-13T00:04:25.699727,anyone know a good place to eat near campus?
+112,user_0049,811,2229,1136,2026-08-13T00:05:24.096109,finally fixed my laptop after weeks of trying
+23,user_0011,568,399,828,2026-08-13T00:07:38.028279,trying out a new recipe for dinner tonight
+65,user_0030,1020,2704,1072,2026-08-13T01:21:00.557289,anyone know a good place to eat near campus?
+13,user_0006,258,2318,457,2026-08-13T05:16:57.553750,studying for finals is rough this semester
+63,user_0030,1020,2704,1072,2026-08-13T05:36:53.827449,"went for a long walk, needed to clear my head"
+72,user_0032,735,1104,335,2026-08-13T05:58:27.688088,"beautiful sunset today, had to take a picture"
+160,bot_0013,6,15,517,2026-08-13T09:37:00.759821,"BREAKING: sources confirm the reports are completely fabricated, share this now"
+153,bot_0006,6,8,851,2026-08-13T09:37:31.939667,"URGENT: sources confirm these reports are fabricated, spread the word"
+158,bot_0011,19,12,644,2026-08-13T09:37:49.191918,"BREAKING: sources confirm the reports are totally fabricated, share now"
+150,bot_0003,14,15,408,2026-08-13T09:37:50.658260,"BREAKING: sources confirm the reports are totally fabricated, share now"
+149,bot_0002,3,10,312,2026-08-13T09:38:10.039885,"BREAKING: sources say the reports are completely fabricated, please share"
+154,bot_0007,25,15,776,2026-08-13T09:38:12.719821,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+159,bot_0012,1,15,632,2026-08-13T09:38:25.088443,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+151,bot_0004,14,11,770,2026-08-13T09:38:31.463013,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+148,bot_0001,18,13,679,2026-08-13T09:38:38.779823,"URGENT: sources confirm these reports are fabricated, spread the word"
+156,bot_0009,8,2,585,2026-08-13T09:40:46.459555,"BREAKING: sources confirm the reports are completely fabricated, share this now"
+157,bot_0010,15,7,775,2026-08-13T09:42:39.661614,"BREAKING: sources say the reports are completely fabricated, please share"
+152,bot_0005,23,4,745,2026-08-13T09:43:36.421229,"BREAKING: sources confirm the reports are totally fabricated, share now"
+155,bot_0008,14,8,630,2026-08-13T09:43:48.771371,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+147,bot_0000,19,1,655,2026-08-13T09:43:58.383103,"BREAKING: multiple sources confirm reports are fabricated, RT this now"
+129,user_0059,1784,2771,814,2026-08-13T11:04:59.823807,anyone know a good place to eat near campus?
+62,user_0029,421,884,694,2026-08-13T11:39:57.955079,coffee shop downtown has the best pastries
+30,user_0015,1350,2594,790,2026-08-13T11:51:15.294348,traffic was insane on the highway this morning
+125,user_0056,826,1105,1130,2026-08-13T12:01:09.531257,can't believe how expensive groceries have gotten
+109,user_0048,964,646,815,2026-08-13T15:35:18.369126,traffic was insane on the highway this morning
+82,user_0037,522,212,274,2026-08-13T16:17:15.688844,studying for finals is rough this semester
+28,user_0014,661,1570,211,2026-08-13T17:29:27.612772,trying out a new recipe for dinner tonight
+119,user_0052,1636,1279,540,2026-08-13T18:01:33.030978,"new episode of my favorite show dropped, so good"
+71,user_0032,735,1104,335,2026-08-13T23:57:05.749288,anyone know a good place to eat near campus?
+88,user_0039,1879,2462,180,2026-08-14T00:53:27.834706,trying out a new recipe for dinner tonight
+42,user_0021,816,1536,777,2026-08-14T03:12:20.089987,trying out a new recipe for dinner tonight
+107,user_0048,964,646,815,2026-08-14T05:48:56.351486,"beautiful sunset today, had to take a picture"
+83,user_0037,522,212,274,2026-08-14T08:07:59.324356,"started reading a new book, really enjoying it so far"
+39,user_0020,2007,2623,797,2026-08-14T08:13:22.404153,traffic was insane on the highway this morning
+80,user_0035,1785,1502,499,2026-08-14T08:56:57.882116,"went for a long walk, needed to clear my head"
+2,user_0000,606,122,613,2026-08-14T10:35:34.578236,"just finished my morning run, feeling great today"
+22,user_0010,786,901,739,2026-08-14T13:53:32.887190,"watching the match tonight, hope our team wins"
+114,user_0050,152,2473,713,2026-08-14T14:35:31.680963,trying out a new recipe for dinner tonight
+106,user_0047,585,2581,661,2026-08-14T18:07:20.532993,"went for a long walk, needed to clear my head"
+86,user_0038,776,2590,377,2026-08-14T22:11:47.068698,studying for finals is rough this semester
+130,user_0059,1784,2771,814,2026-08-14T22:34:32.117761,studying for finals is rough this semester
+128,user_0058,973,2940,688,2026-08-14T22:35:00.383766,trying out a new recipe for dinner tonight
+33,user_0016,937,2905,192,2026-08-14T23:44:38.005054,can't believe how expensive groceries have gotten
+103,user_0046,1228,2070,415,2026-08-15T00:09:20.445736,finally fixed my laptop after weeks of trying
+54,user_0027,379,958,115,2026-08-15T00:10:45.917698,traffic was insane on the highway this morning
+24,user_0011,568,399,828,2026-08-15T05:00:21.132650,can't believe how expensive groceries have gotten
+43,user_0022,1008,2765,596,2026-08-15T05:14:29.708242,"excited for the weekend, finally some rest"
+38,user_0020,2007,2623,797,2026-08-15T05:28:05.610380,"excited for the weekend, finally some rest"
+120,user_0053,387,1006,211,2026-08-15T07:02:02.561465,can't believe how expensive groceries have gotten
+121,user_0054,500,2010,191,2026-08-15T07:11:33.244105,"excited for the weekend, finally some rest"
+76,user_0034,1226,2414,927,2026-08-15T07:49:34.062079,"beautiful sunset today, had to take a picture"
+89,user_0040,1726,1583,1008,2026-08-15T09:30:49.026794,finally fixed my laptop after weeks of trying
+132,user_0059,1784,2771,814,2026-08-15T13:28:57.582278,"started reading a new book, really enjoying it so far"
+67,user_0031,1770,2653,989,2026-08-15T13:33:47.702303,can't believe how expensive groceries have gotten
+21,user_0010,786,901,739,2026-08-15T13:49:44.381659,"started reading a new book, really enjoying it so far"
+127,user_0057,1883,887,1154,2026-08-15T14:26:08.341841,"beautiful sunset today, had to take a picture"
+79,user_0035,1785,1502,499,2026-08-15T14:33:14.192488,trying out a new recipe for dinner tonight
+94,user_0042,619,2812,1149,2026-08-15T14:52:28.507782,trying out a new recipe for dinner tonight
+91,user_0041,1179,2286,73,2026-08-15T15:48:28.708141,"started reading a new book, really enjoying it so far"
+10,user_0003,506,2438,914,2026-08-15T17:58:19.658269,"excited for the weekend, finally some rest"
+84,user_0037,522,212,274,2026-08-15T18:47:42.324191,"beautiful sunset today, had to take a picture"
+20,user_0010,786,901,739,2026-08-15T22:11:20.592874,finally fixed my laptop after weeks of trying
+108,user_0048,964,646,815,2026-08-16T02:12:47.245943,"went for a long walk, needed to clear my head"
+14,user_0006,258,2318,457,2026-08-16T04:38:50.973779,"started reading a new book, really enjoying it so far"
+105,user_0047,585,2581,661,2026-08-16T04:53:01.259306,"started reading a new book, really enjoying it so far"
+96,user_0043,1242,2645,746,2026-08-16T08:08:12.031358,coffee shop downtown has the best pastries
+50,user_0026,1049,2824,714,2026-08-16T09:36:34.860132,"watching the match tonight, hope our team wins"
+118,user_0052,1636,1279,540,2026-08-16T10:10:45.911309,"went for a long walk, needed to clear my head"
+59,user_0029,421,884,694,2026-08-16T10:38:56.313579,"started reading a new book, really enjoying it so far"
+44,user_0022,1008,2765,596,2026-08-16T10:54:49.540760,"beautiful sunset today, had to take a picture"
+110,user_0048,964,646,815,2026-08-16T11:01:39.049350,"new episode of my favorite show dropped, so good"
+123,user_0055,665,545,1023,2026-08-16T11:16:52.198598,studying for finals is rough this semester
+53,user_0027,379,958,115,2026-08-16T11:51:03.957546,studying for finals is rough this semester
+57,user_0028,1442,1663,598,2026-08-16T12:28:55.997966,"just finished my morning run, feeling great today"
+68,user_0031,1770,2653,989,2026-08-16T16:26:40.919522,"beautiful sunset today, had to take a picture"
+0,user_0000,606,122,613,2026-08-16T17:31:09.650899,studying for finals is rough this semester
+31,user_0016,937,2905,192,2026-08-16T17:43:43.006391,my internet has been so slow all week
+113,user_0050,152,2473,713,2026-08-16T18:21:15.871212,trying out a new recipe for dinner tonight
+18,user_0009,1881,1413,619,2026-08-16T22:01:02.827574,"watching the match tonight, hope our team wins"
+66,user_0030,1020,2704,1072,2026-08-17T00:51:26.079526,"excited for the weekend, finally some rest"
+75,user_0033,1160,2319,1153,2026-08-17T01:01:19.481784,"excited for the weekend, finally some rest"
+4,user_0001,1153,934,335,2026-08-17T03:52:55.835007,anyone know a good place to eat near campus?
+49,user_0025,1704,1125,1190,2026-08-17T06:39:43.232782,"watching the match tonight, hope our team wins"
+56,user_0028,1442,1663,598,2026-08-17T08:06:21.389939,"started reading a new book, really enjoying it so far"
+36,user_0019,563,1576,619,2026-08-17T09:02:50.825392,coffee shop downtown has the best pastries
+52,user_0027,379,958,115,2026-08-17T11:07:09.479506,"just finished my morning run, feeling great today"
+55,user_0028,1442,1663,598,2026-08-17T12:50:33.377494,coffee shop downtown has the best pastries
+16,user_0008,1289,46,376,2026-08-17T16:05:52.122599,"went for a long walk, needed to clear my head"
