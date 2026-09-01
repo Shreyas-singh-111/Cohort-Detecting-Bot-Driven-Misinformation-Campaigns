@@ -34,7 +34,10 @@ import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-DATA_PATH = "data/sample_posts.csv"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_PATH = BASE_DIR / "sample_posts.csv"
 GRAPH_OUT = "outputs/cluster_graph.png"
 CSV_OUT = "outputs/flagged_clusters.csv"
 
