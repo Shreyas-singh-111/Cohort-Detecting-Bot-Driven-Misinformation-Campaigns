@@ -38,8 +38,11 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_PATH = BASE_DIR / "sample_posts.csv"
-GRAPH_OUT = "outputs/cluster_graph.png"
-CSV_OUT = "outputs/flagged_clusters.csv"
+OUTPUT_DIR = BASE_DIR / "outputs"
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+GRAPH_OUT = OUTPUT_DIR / "cluster_graph.png"
+CSV_OUT = OUTPUT_DIR / "flagged_clusters.csv"
 
 # Default detection parameters. Exposed as function arguments (not just
 # module constants) so the Streamlit app can let a user tune them live.
