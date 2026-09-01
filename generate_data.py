@@ -18,7 +18,10 @@ from datetime import datetime, timedelta
 
 random.seed(42)
 
-OUT_PATH = "data/sample_posts.csv"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+OUT_PATH = BASE_DIR / "sample_posts.csv"
 
 # --- organic, unrelated post templates (varied wording, varied topics) ---
 ORGANIC_TEMPLATES = [
