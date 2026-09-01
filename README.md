@@ -31,7 +31,7 @@ Ingest → Extract Signals → Cluster → Score & Visualize
 ```
 
 1. **Ingest** — load posts (bundled sample dataset, or a CSV you upload in the app)
-2. **Extract signals** — account age, follower/following ratio, and a TF-IDF text-similarity fingerprint per post
+2. **Extract signals** — account age, follower count, posting timings and a TF-IDF text-similarity fingerprint per post
 3. **Cluster** — build a graph where an edge connects two accounts if their posts are highly similar in wording (cosine similarity ≥ threshold) **and** posted within a configurable time window of each other; find connected components
 4. **Score & visualize** — rank each cluster with a coordination score (0–100, based on density, account age, follower count, and cluster size) and render the full account graph, with flagged clusters highlighted in red against organic activity in gray
 
@@ -75,12 +75,12 @@ None of this is implemented yet — it's an honest account of the next bottlenec
 
 ## Testing
 
-Basic tests live in `tests/test_pipeline.py` and check the core claims the project rests on: that a planted coordinated cluster gets correctly flagged, that organic/unrelated activity does *not* get falsely flagged, that similarity without matching timing is correctly ignored, and that the pipeline doesn't crash on empty input.
+Basic tests live in `test_pipeline.py` and check the core claims the project rests on: that a planted coordinated cluster gets correctly flagged, that organic/unrelated activity does *not* get falsely flagged, that similarity without matching timing is correctly ignored, and that the pipeline doesn't crash on empty input.
 
 ```bash
 python3 test_pipeline.py
 # or, if pytest is installed:
-python3 -m pytest tests/ -v
+python3 -m pytest test_pipeline.py -v
 ```
 
 ## What's Built
