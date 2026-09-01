@@ -47,12 +47,12 @@ git clone https://github.com/<your-username>/cohort-omnikon.git
 cd cohort-omnikon
 pip install -r requirements.txt
 
-python3 src/generate_data.py   # regenerate the sample dataset (optional, already included)
-python3 src/pipeline.py        # run the pipeline from the CLI
+python3 generate_data.py   # regenerate the sample dataset (optional, already included)
+python3 pipeline.py        # run the pipeline from the CLI
 streamlit run app.py           # or launch the interactive dashboard
 ```
 
-The dashboard lets you upload your own CSV (same columns as `data/sample_posts.csv`) and adjust the similarity threshold, time window, and minimum cluster size live, rather than only running on the bundled sample.
+The dashboard lets you upload your own CSV (same columns as `sample_posts.csv`) and adjust the similarity threshold, time window, and minimum cluster size live, rather than only running on the bundled sample.
 
 ## Deployment
 
@@ -78,7 +78,7 @@ None of this is implemented yet — it's an honest account of the next bottlenec
 Basic tests live in `tests/test_pipeline.py` and check the core claims the project rests on: that a planted coordinated cluster gets correctly flagged, that organic/unrelated activity does *not* get falsely flagged, that similarity without matching timing is correctly ignored, and that the pipeline doesn't crash on empty input.
 
 ```bash
-python3 tests/test_pipeline.py
+python3 test_pipeline.py
 # or, if pytest is installed:
 python3 -m pytest tests/ -v
 ```
