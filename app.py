@@ -10,13 +10,10 @@ Deployed via:  Streamlit Community Cloud, pointed at this repo (see README)
 """
 
 import io
-import sys
-import os
 
 import pandas as pd
 import streamlit as st
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
 from pipeline import (
     load_data,
     run_pipeline,
