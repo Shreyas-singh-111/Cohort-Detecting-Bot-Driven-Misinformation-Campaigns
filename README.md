@@ -86,9 +86,9 @@ python3 -m pytest test_pipeline.py -v
 ## What's Built
 
 - ✅ Detection pipeline (TF-IDF similarity + time-windowed graph clustering + coordination scoring), with the O(n²) → O(n·k) scalability fix described above
-- ✅ Synthetic sample dataset generator (`src/generate_data.py`)
+- ✅ Synthetic sample dataset generator (`generate_data.py`)
 - ✅ Interactive Streamlit dashboard — CSV upload, live-adjustable detection parameters, downloadable results
-- ✅ Basic automated tests (`tests/test_pipeline.py`)
+- ✅ Basic automated tests (`test_pipeline.py`)
 - ✅ Public deployment (Streamlit Community Cloud)
 - ⏳ Live platform API ingestion — not yet built, planned next
 - ⏳ Embedding-based similarity (currently TF-IDF / near-exact-match style) — planned next
