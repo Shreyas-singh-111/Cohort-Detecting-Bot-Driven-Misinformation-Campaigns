@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 
 import pandas as pd
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
+sys.path.insert(0, os.path.dirname(__file__))
 from pipeline import build_coordination_graph, score_clusters, run_pipeline
 
 
