@@ -74,7 +74,33 @@ with st.sidebar:
 
 # ---------------- Load data ----------------
 if uploaded is not None and not use_sample:
-    df = pd.read_csv(uploaded, parse_dates=["timestamp"])
+    df = pd.read_csv(uploaded)
+
+    required_columns = {
+        "post_id",
+        "account_id",
+        "account_age_days",
+        "follower_count",
+        "following_count",
+        "timestamp",
+        "text",
+    }
+
+    missing_columns = required_columns - set(df.columns)
+
+    if missing_columns:
+        st.error(
+            "Invalid CSV. Missing required columns: "
+            + ", ".join(sorted(missing_columns))
+        )
+        st.stop()
+
+    df["timestamp"] = pd.to_datetime(df["timestamp"], errors="coerce")
+
+    if df["timestamp"].isna().any():
+        st.error("Some values in the 'timestamp' column could not be read as dates.")
+        st.stop()
+
     data_label = f"your upload ({uploaded.name})"
 else:
     df = load_data()
